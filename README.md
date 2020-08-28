@@ -38,10 +38,10 @@ Nowadays, I love to spend most of my time at women.code(be), something I am trul
 ### 🖋 Some of the stuff I blog about:
 
 <a href="http://bit.ly/remote-flexible-work">
-  <img src="https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/assets/article-card1.png" alt="How flexible and remote work improved my life - A detailed view on a personal experience with remote and flexible work by Claudia" width="400" />
+  <img src="https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/assets/article-cardA.png" alt="How flexible and remote work improved my life - A detailed view on a personal experience with remote and flexible work by Claudia" width="400" />
 </a>
 <a href="http://bit.ly/local-community-rising">
-  <img src="https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/assets/article-card2.png" alt="A local community on the rise - Why we started our own local community for women who code by Claudia" width="400" />
+  <img src="https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/assets/article-cardB.png" alt="A local community on the rise - Why we started our own local community for women who code by Claudia" width="400" />
 </a>
 
 ### 💬 Where to find me:
